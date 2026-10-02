@@ -1,3 +1,3 @@
 # praj-demo
-1st repo
-author-prajbajad
+1st repo.
+Author-prajbajad
